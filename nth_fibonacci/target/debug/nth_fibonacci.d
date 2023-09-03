@@ -1,0 +1,1 @@
+/Users/alaiyosief/Documents-Local/Projects/rust/rust-projects/rust-book/nth_fibonacci/target/debug/nth_fibonacci: /Users/alaiyosief/Documents-Local/Projects/rust/rust-projects/rust-book/nth_fibonacci/src/main.rs
