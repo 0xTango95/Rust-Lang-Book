@@ -1,0 +1,1 @@
+/Users/alaiyosief/Documents-Local/Projects/rust/rust-projects/rust-book/slice-type/target/debug/slice-type: /Users/alaiyosief/Documents-Local/Projects/rust/rust-projects/rust-book/slice-type/src/main.rs
