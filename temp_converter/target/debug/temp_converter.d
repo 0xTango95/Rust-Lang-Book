@@ -1,0 +1,1 @@
+/Users/alaiyosief/Documents-Local/Projects/rust/rust-projects/rust-book/temp_converter/target/debug/temp_converter: /Users/alaiyosief/Documents-Local/Projects/rust/rust-projects/rust-book/temp_converter/src/main.rs
