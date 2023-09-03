@@ -1,0 +1,1 @@
+/Users/alaiyosief/Documents-Local/Projects/rust/rust-projects/rust-book/rectangles/target/debug/rectangles: /Users/alaiyosief/Documents-Local/Projects/rust/rust-projects/rust-book/rectangles/src/main.rs
